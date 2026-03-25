@@ -64,6 +64,12 @@ Compare the simulation results with the theoretical calculations and discuss any
 
 
 ---
+
+## BLOCK DIAGRAM
+
+<img width="619" height="347" alt="image" src="https://github.com/user-attachments/assets/4823ff15-411d-4f2d-991f-0edfcf092fae" />
+
+---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
